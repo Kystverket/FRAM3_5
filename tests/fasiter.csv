@@ -1,0 +1,413 @@
+,Virkninger,Nåverdi levetid,Strekning,Pakke
+0,rente,0.0,Strekning 10,40
+1,diskonteringsfaktor,0.0,Strekning 10,40
+2,Endring i vedlikeholdskostnader,623546.8933691394,Strekning 10,40
+3,"Investeringskostnader, annet",-6061276.428631482,Strekning 10,40
+4,"Investeringskostnader, navigasjonsinnretninger",-6061276.428631482,Strekning 10,40
+5,"Investeringskostnader, utdyping",-6061276.428631482,Strekning 10,40
+6,Ulykker - endring i dødsfall,2667463.0803416856,Strekning 10,40
+7,Ulykker - endring i forventet opprenskingskostnad ved oljeutslipp,794684.8565399564,Strekning 10,40
+8,Ulykker - endring i forventet velferdstap ved oljeutslipp,7021889.424514847,Strekning 10,40
+9,Ulykker - endring i personskader,492810.09708953614,Strekning 10,40
+10,Ulykker - endring i reparasjonskostnader,5947131.293280128,Strekning 10,40
+11,Ulykker - endring i tid ute av drift,4655586.175421449,Strekning 10,40
+12,Skattefinansieringskostnader,-3512056.4785050615,Strekning 10,40
+13,Samfunnsøkonomisk overskudd,507226.0561572327,Strekning 10,40
+14,rente,0.0,Strekning 10,51
+15,diskonteringsfaktor,0.0,Strekning 10,51
+16,Endring i vedlikeholdskostnader,1438905.313511497,Strekning 10,51
+17,"Investeringskostnader, annet",-1354873.5546352726,Strekning 10,51
+18,"Investeringskostnader, navigasjonsinnretninger",-1354873.5546352726,Strekning 10,51
+19,"Investeringskostnader, utdyping",-1354873.5546352726,Strekning 10,51
+20,Ulykker - endring i dødsfall,6066334.264421461,Strekning 10,51
+21,Ulykker - endring i forventet opprenskingskostnad ved oljeutslipp,689607.4945615513,Strekning 10,51
+22,Ulykker - endring i forventet velferdstap ved oljeutslipp,15995125.938347971,Strekning 10,51
+23,Ulykker - endring i personskader,1314836.2926912974,Strekning 10,51
+24,Ulykker - endring i reparasjonskostnader,12240375.715801526,Strekning 10,51
+25,Ulykker - endring i tid ute av drift,8975843.504357798,Strekning 10,51
+26,Skattefinansieringskostnader,-525143.0700788641,Strekning 10,51
+27,Samfunnsøkonomisk overskudd,42131264.78970842,Strekning 10,51
+28,rente,0.0,Strekning 10,60
+29,diskonteringsfaktor,0.0,Strekning 10,60
+30,Endring i distanseavhengige kostnader,0.0,Strekning 10,60
+31,Endring i globale utslipp til luft,0.0,Strekning 10,60
+32,Endring i globale utslipp til luft - anleggsfasen,-128078816.63916701,Strekning 10,60
+33,Endring i lokale utslipp til luft,0.0,Strekning 10,60
+34,Endring i tidsavhengige kostnader,0.0,Strekning 10,60
+35,Endring i vedlikeholdskostnader,-9759018.12081576,Strekning 10,60
+36,"Investeringskostnader, annet",-39220023.949968405,Strekning 10,60
+37,"Investeringskostnader, navigasjonsinnretninger",-39220023.949968405,Strekning 10,60
+38,"Investeringskostnader, utdyping",-39220023.949968405,Strekning 10,60
+39,Ulykker - endring i dødsfall,-14141656.322165776,Strekning 10,60
+40,Ulykker - endring i forventet opprenskingskostnad ved oljeutslipp,-14048044.351191629,Strekning 10,60
+41,Ulykker - endring i forventet velferdstap ved oljeutslipp,-99324366.84762703,Strekning 10,60
+42,Ulykker - endring i personskader,-5161211.911780801,Strekning 10,60
+43,Ulykker - endring i reparasjonskostnader,-48592695.63134366,Strekning 10,60
+44,Ulykker - endring i tid ute av drift,-23611972.382706072,Strekning 10,60
+45,Skattefinansieringskostnader,-25483817.994144194,Strekning 10,60
+46,Samfunnsøkonomisk overskudd,-485861672.0508472,Strekning 10,60
+47,rente,0.0,Strekning 10,80
+48,diskonteringsfaktor,0.0,Strekning 10,80
+49,Endring i vedlikeholdskostnader,-3174019.494434285,Strekning 10,80
+50,"Investeringskostnader, annet",-1212255.2857262962,Strekning 10,80
+51,"Investeringskostnader, navigasjonsinnretninger",-1212255.2857262962,Strekning 10,80
+52,"Investeringskostnader, utdyping",-1212255.2857262962,Strekning 10,80
+53,Ulykker - endring i dødsfall,1588095.361442057,Strekning 10,80
+54,Ulykker - endring i forventet opprenskingskostnad ved oljeutslipp,515093.4639280444,Strekning 10,80
+55,Ulykker - endring i forventet velferdstap ved oljeutslipp,4326780.360023427,Strekning 10,80
+56,Ulykker - endring i personskader,355318.0630964375,Strekning 10,80
+57,Ulykker - endring i reparasjonskostnader,3523128.9982389845,Strekning 10,80
+58,Ulykker - endring i tid ute av drift,2441221.9308730704,Strekning 10,80
+59,Skattefinansieringskostnader,-1362157.070322635,Strekning 10,80
+60,Samfunnsøkonomisk overskudd,4576695.755666211,Strekning 10,80
+61,rente,0.0,Strekning 10,90
+62,diskonteringsfaktor,0.0,Strekning 10,90
+63,Endring i vedlikeholdskostnader,-11884313.03971814,Strekning 10,90
+64,"Investeringskostnader, annet",-8182723.1786525,Strekning 10,90
+65,"Investeringskostnader, navigasjonsinnretninger",-8182723.1786525,Strekning 10,90
+66,"Investeringskostnader, utdyping",-8182723.1786525,Strekning 10,90
+67,Ulykker - endring i dødsfall,8866227.67510758,Strekning 10,90
+68,Ulykker - endring i forventet opprenskingskostnad ved oljeutslipp,993358.8677905928,Strekning 10,90
+69,Ulykker - endring i forventet velferdstap ved oljeutslipp,14741483.419160143,Strekning 10,90
+70,Ulykker - endring i personskader,1224753.036242833,Strekning 10,90
+71,Ulykker - endring i reparasjonskostnader,11519752.697877664,Strekning 10,90
+72,Ulykker - endring i tid ute av drift,10796344.563120723,Strekning 10,90
+73,Skattefinansieringskostnader,-7286496.515135128,Strekning 10,90
+74,Samfunnsøkonomisk overskudd,4422941.168488771,Strekning 10,90
+75,rente,0.0,Strekning 11,11
+76,diskonteringsfaktor,0.0,Strekning 11,11
+77,Endring i distanseavhengige kostnader,20287506.093242466,Strekning 11,11
+78,Endring i forurensede sedimenter,5460075.180187572,Strekning 11,11
+79,Endring i globale utslipp til luft,82357896.8394347,Strekning 11,11
+80,Endring i lokale utslipp til luft,992673.7859472929,Strekning 11,11
+81,Endring i tidsavhengige kostnader,837406787.6467528,Strekning 11,11
+82,Endring i vedlikeholdskostnader,1387405.4829019175,Strekning 11,11
+83,Endring i ventetidskostnader,8436356.63207035,Strekning 11,11
+84,Fyrtårn Skarvhaugneset,-1405642.488194914,Strekning 11,11
+85,"Investeringskostnader, annet",-81648958.95038877,Strekning 11,11
+86,"Investeringskostnader, navigasjonsinnretninger",-81648958.95038877,Strekning 11,11
+87,"Investeringskostnader, utdyping",-81648958.95038877,Strekning 11,11
+88,Overvåkningskameraer på haugflua-HIB’en,0.0,Strekning 11,11
+89,Ulykker - endring i dødsfall,21236.156176638695,Strekning 11,11
+90,Ulykker - endring i forventet opprenskingskostnad ved oljeutslipp,178785.06490016638,Strekning 11,11
+91,Ulykker - endring i forventet velferdstap ved oljeutslipp,576107.1916735272,Strekning 11,11
+92,Ulykker - endring i personskader,8472.342670111824,Strekning 11,11
+93,Ulykker - endring i reparasjonskostnader,144867.3368778499,Strekning 11,11
+94,Ulykker - endring i tid ute av drift,52918.81002219095,Strekning 11,11
+95,Skattefinansieringskostnader,-48711894.27365288,Strekning 11,11
+96,Samfunnsøkonomisk overskudd,662246674.9498435,Strekning 11,11
+97,rente,0.0,Strekning 12.1,1
+98,diskonteringsfaktor,0.0,Strekning 12.1,1
+99,Endring i vedlikeholdskostnader,-11069867.046583187,Strekning 12.1,1
+100,"Investeringskostnader, annet",-102414891.82730949,Strekning 12.1,1
+101,"Investeringskostnader, navigasjonsinnretninger",-102414891.82730949,Strekning 12.1,1
+102,"Investeringskostnader, utdyping",-102414891.82730949,Strekning 12.1,1
+103,Ulykker - endring i dødsfall,19199743.52798671,Strekning 12.1,1
+104,Ulykker - endring i forventet opprenskingskostnad ved oljeutslipp,22383365.880253017,Strekning 12.1,1
+105,Ulykker - endring i forventet velferdstap ved oljeutslipp,180758470.4190439,Strekning 12.1,1
+106,Ulykker - endring i personskader,7542350.41588827,Strekning 12.1,1
+107,Ulykker - endring i reparasjonskostnader,99437795.95961183,Strekning 12.1,1
+108,Ulykker - endring i tid ute av drift,77610902.26834264,Strekning 12.1,1
+109,Skattefinansieringskostnader,-63662908.50570234,Strekning 12.1,1
+110,Samfunnsøkonomisk overskudd,24955177.436912395,Strekning 12.1,1
+111,rente,0.0,Strekning 12.1,11
+112,diskonteringsfaktor,0.0,Strekning 12.1,11
+113,Endring i distanseavhengige kostnader,175520.5965448444,Strekning 12.1,11
+114,Endring i globale utslipp til luft,247327.07530380372,Strekning 12.1,11
+115,Endring i lokale utslipp til luft,13819.797741363542,Strekning 12.1,11
+116,Endring i tidsavhengige kostnader,513704.60761771887,Strekning 12.1,11
+117,Endring i vedlikeholdskostnader,-8428093.07991818,Strekning 12.1,11
+118,"Investeringskostnader, annet",-8791667.5323266,Strekning 12.1,11
+119,"Investeringskostnader, navigasjonsinnretninger",-8791667.5323266,Strekning 12.1,11
+120,"Investeringskostnader, utdyping",-8791667.5323266,Strekning 12.1,11
+121,Ulykker - endring i dødsfall,11893926.613266014,Strekning 12.1,11
+122,Ulykker - endring i forventet opprenskingskostnad ved oljeutslipp,1752651.7867427163,Strekning 12.1,11
+123,Ulykker - endring i forventet velferdstap ved oljeutslipp,18102357.00416048,Strekning 12.1,11
+124,Ulykker - endring i personskader,1526739.1315694468,Strekning 12.1,11
+125,Ulykker - endring i reparasjonskostnader,16512841.414237715,Strekning 12.1,11
+126,Ulykker - endring i tid ute av drift,15401406.281553097,Strekning 12.1,11
+127,Skattefinansieringskostnader,-6960619.135379596,Strekning 12.1,11
+128,Samfunnsøkonomisk overskudd,24376579.496459626,Strekning 12.1,11
+129,rente,0.0,Strekning 12.1,29
+130,diskonteringsfaktor,0.0,Strekning 12.1,29
+131,Endring i vedlikeholdskostnader,-6779734.532586745,Strekning 12.1,29
+132,"Investeringskostnader, annet",-5349967.812447963,Strekning 12.1,29
+133,"Investeringskostnader, navigasjonsinnretninger",-5349967.812447963,Strekning 12.1,29
+134,"Investeringskostnader, utdyping",-5349967.812447963,Strekning 12.1,29
+135,Ulykker - endring i dødsfall,456973.6830681433,Strekning 12.1,29
+136,Ulykker - endring i forventet opprenskingskostnad ved oljeutslipp,179544.37943383455,Strekning 12.1,29
+137,Ulykker - endring i forventet velferdstap ved oljeutslipp,2634436.7090099514,Strekning 12.1,29
+138,Ulykker - endring i personskader,152870.08453737653,Strekning 12.1,29
+139,Ulykker - endring i reparasjonskostnader,1222125.9285040742,Strekning 12.1,29
+140,Ulykker - endring i tid ute av drift,1127971.1289095657,Strekning 12.1,29
+141,Skattefinansieringskostnader,-4565927.5939861275,Strekning 12.1,29
+142,Samfunnsøkonomisk overskudd,-21621643.650453813,Strekning 12.1,29
+143,rente,0.0,Strekning 12.2,12
+144,diskonteringsfaktor,0.0,Strekning 12.2,12
+145,Endring i distanseavhengige kostnader,2701620.446806661,Strekning 12.2,12
+146,Endring i globale utslipp til luft,3279516.2449084213,Strekning 12.2,12
+147,Endring i lokale utslipp til luft,195630.4005572971,Strekning 12.2,12
+148,Endring i tidsavhengige kostnader,8246446.67987436,Strekning 12.2,12
+149,Endring i vedlikeholdskostnader,-1855111.3432618119,Strekning 12.2,12
+150,"Investeringskostnader, annet",-6517654.8891402045,Strekning 12.2,12
+151,"Investeringskostnader, navigasjonsinnretninger",-6517654.8891402045,Strekning 12.2,12
+152,"Investeringskostnader, utdyping",-6517654.8891402045,Strekning 12.2,12
+153,Ulykker - endring i dødsfall,2450082.9779648944,Strekning 12.2,12
+154,Ulykker - endring i forventet opprenskingskostnad ved oljeutslipp,1080361.6905585034,Strekning 12.2,12
+155,Ulykker - endring i forventet velferdstap ved oljeutslipp,8996876.847624194,Strekning 12.2,12
+156,Ulykker - endring i personskader,412279.1350712219,Strekning 12.2,12
+157,Ulykker - endring i reparasjonskostnader,9331906.150107017,Strekning 12.2,12
+158,Ulykker - endring i tid ute av drift,6632765.677795394,Strekning 12.2,12
+159,Skattefinansieringskostnader,-4281615.202136485,Strekning 12.2,12
+160,Samfunnsøkonomisk overskudd,17637795.038449056,Strekning 12.2,12
+161,rente,0.0,Strekning 12.2,14
+162,diskonteringsfaktor,0.0,Strekning 12.2,14
+163,Endring i vedlikeholdskostnader,-5357561.0442730365,Strekning 12.2,14
+164,"Investeringskostnader, annet",-4116319.786385321,Strekning 12.2,14
+165,"Investeringskostnader, navigasjonsinnretninger",-4116319.786385321,Strekning 12.2,14
+166,"Investeringskostnader, utdyping",-4116319.786385321,Strekning 12.2,14
+167,Ulykker - endring i dødsfall,3172103.9699051427,Strekning 12.2,14
+168,Ulykker - endring i forventet opprenskingskostnad ved oljeutslipp,874511.6012203809,Strekning 12.2,14
+169,Ulykker - endring i forventet velferdstap ved oljeutslipp,7297031.490332173,Strekning 12.2,14
+170,Ulykker - endring i personskader,511940.4339841177,Strekning 12.2,14
+171,Ulykker - endring i reparasjonskostnader,10430774.440351838,Strekning 12.2,14
+172,Ulykker - endring i tid ute av drift,7138901.878471465,Strekning 12.2,14
+173,Skattefinansieringskostnader,-3541304.0806858,Strekning 12.2,14
+174,Samfunnsøkonomisk overskudd,8177439.330150316,Strekning 12.2,14
+175,rente,0.0,Strekning 12.2,2
+176,diskonteringsfaktor,0.0,Strekning 12.2,2
+177,Endring i distanseavhengige kostnader,1316136.0729890633,Strekning 12.2,2
+178,Endring i globale utslipp til luft,1419532.1636155667,Strekning 12.2,2
+179,Endring i lokale utslipp til luft,89200.94571319118,Strekning 12.2,2
+180,Endring i tidsavhengige kostnader,5326339.434147865,Strekning 12.2,2
+181,Endring i vedlikeholdskostnader,-15352841.94914381,Strekning 12.2,2
+182,"Investeringskostnader, annet",-49615478.30611265,Strekning 12.2,2
+183,"Investeringskostnader, navigasjonsinnretninger",-49615478.30611265,Strekning 12.2,2
+184,"Investeringskostnader, utdyping",-49615478.30611265,Strekning 12.2,2
+185,Ulykker - endring i dødsfall,52027833.140694916,Strekning 12.2,2
+186,Ulykker - endring i forventet opprenskingskostnad ved oljeutslipp,25873374.144066103,Strekning 12.2,2
+187,Ulykker - endring i forventet velferdstap ved oljeutslipp,242384554.74790776,Strekning 12.2,2
+188,Ulykker - endring i personskader,11722348.025677038,Strekning 12.2,2
+189,Ulykker - endring i reparasjonskostnader,171657543.5119916,Strekning 12.2,2
+190,Ulykker - endring i tid ute av drift,131635135.25005056,Strekning 12.2,2
+191,Skattefinansieringskostnader,-32839855.373496354,Strekning 12.2,2
+192,Samfunnsøkonomisk overskudd,446412865.19587547,Strekning 12.2,2
+193,rente,0.0,Strekning 12.2,3
+194,diskonteringsfaktor,0.0,Strekning 12.2,3
+195,Endring i distanseavhengige kostnader,92823.96585975988,Strekning 12.2,3
+196,Endring i globale utslipp til luft,111673.06897516275,Strekning 12.2,3
+197,Endring i lokale utslipp til luft,6336.842640045938,Strekning 12.2,3
+198,Endring i tidsavhengige kostnader,625977.8510126864,Strekning 12.2,3
+199,Endring i vedlikeholdskostnader,938066.0554093858,Strekning 12.2,3
+200,"Investeringskostnader, annet",-28081537.148177378,Strekning 12.2,3
+201,"Investeringskostnader, navigasjonsinnretninger",-28081537.148177378,Strekning 12.2,3
+202,"Investeringskostnader, utdyping",-28081537.148177378,Strekning 12.2,3
+203,Ulykker - endring i dødsfall,9915133.582653357,Strekning 12.2,3
+204,Ulykker - endring i forventet opprenskingskostnad ved oljeutslipp,5693010.7899964005,Strekning 12.2,3
+205,Ulykker - endring i forventet velferdstap ved oljeutslipp,66837966.949438736,Strekning 12.2,3
+206,Ulykker - endring i personskader,2670060.6979270964,Strekning 12.2,3
+207,Ulykker - endring i reparasjonskostnader,40795106.95142539,Strekning 12.2,3
+208,Ulykker - endring i tid ute av drift,30083993.40619674,Strekning 12.2,3
+209,Skattefinansieringskostnader,-16661309.077824552,Strekning 12.2,3
+210,Samfunnsøkonomisk overskudd,56864229.63917807,Strekning 12.2,3
+211,rente,0.0,Strekning 14,11
+212,diskonteringsfaktor,0.0,Strekning 14,11
+213,Endring i distanseavhengige kostnader,20287506.093242466,Strekning 14,11
+214,Endring i forurensede sedimenter,5460075.180187572,Strekning 14,11
+215,Endring i globale utslipp til luft,82357896.8394347,Strekning 14,11
+216,Endring i lokale utslipp til luft,992673.7859472929,Strekning 14,11
+217,Endring i tidsavhengige kostnader,837406787.6467528,Strekning 14,11
+218,Endring i vedlikeholdskostnader,1387405.4829019175,Strekning 14,11
+219,Endring i ventetidskostnader,8436356.63207035,Strekning 14,11
+220,Fyrtårn Skarvhaugneset,-1405642.488194914,Strekning 14,11
+221,"Investeringskostnader, annet",-81648958.95038877,Strekning 14,11
+222,"Investeringskostnader, navigasjonsinnretninger",-81648958.95038877,Strekning 14,11
+223,"Investeringskostnader, utdyping",-81648958.95038877,Strekning 14,11
+224,Overvåkningskameraer på haugflua-HIB’en,0.0,Strekning 14,11
+225,Ulykker - endring i dødsfall,3066873431509.3413,Strekning 14,11
+226,Ulykker - endring i forventet opprenskingskostnad ved oljeutslipp,22113163888052.17,Strekning 14,11
+227,Ulykker - endring i forventet velferdstap ved oljeutslipp,0.0,Strekning 14,11
+228,Ulykker - endring i personskader,2293895471682.824,Strekning 14,11
+229,Ulykker - endring i reparasjonskostnader,35114149198514.426,Strekning 14,11
+230,Ulykker - endring i tid ute av drift,12704576597775.963,Strekning 14,11
+231,Skattefinansieringskostnader,-48711894.27365288,Strekning 14,11
+232,Samfunnsøkonomisk overskudd,75293319851822.77,Strekning 14,11
+233,rente,0.0,Strekning 15,1
+234,diskonteringsfaktor,0.0,Strekning 15,1
+235,Endring i vedlikeholdskostnader,-7076090.919934759,Strekning 15,1
+236,"Investeringskostnader, annet",-6952640.609312582,Strekning 15,1
+237,"Investeringskostnader, navigasjonsinnretninger",-6952640.609312582,Strekning 15,1
+238,"Investeringskostnader, utdyping",-6952640.609312582,Strekning 15,1
+239,Ulykker - endring i dødsfall,7862534.018488085,Strekning 15,1
+240,Ulykker - endring i forventet opprenskingskostnad ved oljeutslipp,711452.2362429021,Strekning 15,1
+241,Ulykker - endring i forventet velferdstap ved oljeutslipp,11233420.290746475,Strekning 15,1
+242,Ulykker - endring i personskader,997114.103022304,Strekning 15,1
+243,Ulykker - endring i reparasjonskostnader,9656657.235408321,Strekning 15,1
+244,Ulykker - endring i tid ute av drift,9385352.78072107,Strekning 15,1
+245,Skattefinansieringskostnader,-5586802.549574502,Strekning 15,1
+246,Samfunnsøkonomisk overskudd,6325715.367182152,Strekning 15,1
+247,rente,0.0,Strekning 3,1
+248,diskonteringsfaktor,0.0,Strekning 3,1
+249,Endring i vedlikeholdskostnader,-8489055.979219908,Strekning 3,1
+250,"Investeringskostnader, annet",-3329922.6516212267,Strekning 3,1
+251,"Investeringskostnader, navigasjonsinnretninger",-3329922.6516212267,Strekning 3,1
+252,"Investeringskostnader, utdyping",-3329922.6516212267,Strekning 3,1
+253,Ulykker - endring i dødsfall,2711742.1350439005,Strekning 3,1
+254,Ulykker - endring i forventet opprenskingskostnad ved oljeutslipp,538114.2664694225,Strekning 3,1
+255,Ulykker - endring i forventet velferdstap ved oljeutslipp,37394603.557985395,Strekning 3,1
+256,Ulykker - endring i personskader,1610958.719858572,Strekning 3,1
+257,Ulykker - endring i reparasjonskostnader,14044207.39017055,Strekning 3,1
+258,Ulykker - endring i tid ute av drift,1970575.8821485208,Strekning 3,1
+259,Skattefinansieringskostnader,-3695764.7868167176,Strekning 3,1
+260,Samfunnsøkonomisk overskudd,36095613.23077606,Strekning 3,1
+261,rente,0.0,Strekning 3,5
+262,diskonteringsfaktor,0.0,Strekning 3,5
+263,Endring i vedlikeholdskostnader,-1201045.696920106,Strekning 3,5
+264,"Investeringskostnader, annet",-51699.122479503814,Strekning 3,5
+265,"Investeringskostnader, navigasjonsinnretninger",-51699.122479503814,Strekning 3,5
+266,"Investeringskostnader, utdyping",-51699.122479503814,Strekning 3,5
+267,Ulykker - endring i dødsfall,10536.59549455965,Strekning 3,5
+268,Ulykker - endring i forventet opprenskingskostnad ved oljeutslipp,6876.378627266807,Strekning 3,5
+269,Ulykker - endring i forventet velferdstap ved oljeutslipp,192118.25473092208,Strekning 3,5
+270,Ulykker - endring i personskader,6065.430045509892,Strekning 3,5
+271,Ulykker - endring i reparasjonskostnader,49252.29141066693,Strekning 3,5
+272,Ulykker - endring i tid ute av drift,21572.227495046973,Strekning 3,5
+273,Skattefinansieringskostnader,-271228.6128717235,Strekning 3,5
+274,Samfunnsøkonomisk overskudd,-1340950.4994263686,Strekning 3,5
+275,rente,0.0,Strekning 3,9
+276,diskonteringsfaktor,0.0,Strekning 3,9
+277,Endring i vedlikeholdskostnader,5758872.64020892,Strekning 3,9
+278,Fritidsbåtberegninger - tiltakspakke 9,22485298.49101136,Strekning 3,9
+279,"Investeringskostnader, annet",-4797535.947829044,Strekning 3,9
+280,"Investeringskostnader, navigasjonsinnretninger",-4797535.947829044,Strekning 3,9
+281,"Investeringskostnader, utdyping",-4797535.947829044,Strekning 3,9
+282,Ulykker - endring i dødsfall,202607.43797581122,Strekning 3,9
+283,Ulykker - endring i forventet opprenskingskostnad ved oljeutslipp,82065.72336539716,Strekning 3,9
+284,Ulykker - endring i forventet velferdstap ved oljeutslipp,3407373.9062488857,Strekning 3,9
+285,Ulykker - endring i personskader,128284.97667630891,Strekning 3,9
+286,Ulykker - endring i reparasjonskostnader,920613.2461717859,Strekning 3,9
+287,Ulykker - endring i tid ute av drift,513272.36313864,Strekning 3,9
+288,Skattefinansieringskostnader,-1726747.0406556427,Strekning 3,9
+289,Samfunnsøkonomisk overskudd,17379033.90065433,Strekning 3,9
+290,rente,0.0,Strekning 8,1
+291,diskonteringsfaktor,0.0,Strekning 8,1
+292,Endring i vedlikeholdskostnader,-16322424.421542214,Strekning 8,1
+293,"Investeringskostnader, annet",-10586826.707250912,Strekning 8,1
+294,"Investeringskostnader, navigasjonsinnretninger",-10586826.707250912,Strekning 8,1
+295,"Investeringskostnader, utdyping",-10586826.707250912,Strekning 8,1
+296,Ulykker - endring i dødsfall,11972901.655783752,Strekning 8,1
+297,Ulykker - endring i forventet opprenskingskostnad ved oljeutslipp,4601621.843991434,Strekning 8,1
+298,Ulykker - endring i forventet velferdstap ved oljeutslipp,56037023.30621175,Strekning 8,1
+299,Ulykker - endring i personskader,2881939.0809942675,Strekning 8,1
+300,Ulykker - endring i reparasjonskostnader,28052366.905570414,Strekning 8,1
+301,Ulykker - endring i tid ute av drift,21838568.13370241,Strekning 8,1
+302,Skattefinansieringskostnader,-9616580.908658989,Strekning 8,1
+303,Samfunnsøkonomisk overskudd,67684935.47430009,Strekning 8,1
+304,rente,0.0,Strekning 8,4
+305,diskonteringsfaktor,0.0,Strekning 8,4
+306,Endring i vedlikeholdskostnader,-5944605.385773342,Strekning 8,4
+307,"Investeringskostnader, annet",-2055439.75231656,Strekning 8,4
+308,"Investeringskostnader, navigasjonsinnretninger",-2055439.75231656,Strekning 8,4
+309,"Investeringskostnader, utdyping",-2055439.75231656,Strekning 8,4
+310,Ulykker - endring i dødsfall,848965.0265827228,Strekning 8,4
+311,Ulykker - endring i forventet opprenskingskostnad ved oljeutslipp,735541.5784883011,Strekning 8,4
+312,Ulykker - endring i forventet velferdstap ved oljeutslipp,7652241.814471388,Strekning 8,4
+313,Ulykker - endring i personskader,274163.73529495636,Strekning 8,4
+314,Ulykker - endring i reparasjonskostnader,3599920.411391204,Strekning 8,4
+315,Ulykker - endring i tid ute av drift,2958023.7155172653,Strekning 8,4
+316,Skattefinansieringskostnader,-2422184.928544604,Strekning 8,4
+317,Samfunnsøkonomisk overskudd,1535746.7104782132,Strekning 8,4
+318,rente,0.0,Strekning 8,7
+319,diskonteringsfaktor,0.0,Strekning 8,7
+320,Endring i distanseavhengige kostnader,1443602.1732214184,Strekning 8,7
+321,Endring i globale utslipp til luft,2015630.944939578,Strekning 8,7
+322,Endring i lokale utslipp til luft,108752.9965068161,Strekning 8,7
+323,Endring i tidsavhengige kostnader,3793196.652432576,Strekning 8,7
+324,Endring i vedlikeholdskostnader,-4330102.73373628,Strekning 8,7
+325,"Investeringskostnader, annet",-47640720.1826291,Strekning 8,7
+326,"Investeringskostnader, navigasjonsinnretninger",-47640720.1826291,Strekning 8,7
+327,"Investeringskostnader, utdyping",-47640720.1826291,Strekning 8,7
+328,Ulykker - endring i dødsfall,13637570.360660711,Strekning 8,7
+329,Ulykker - endring i forventet opprenskingskostnad ved oljeutslipp,16801871.446205866,Strekning 8,7
+330,Ulykker - endring i forventet velferdstap ved oljeutslipp,168436438.08816507,Strekning 8,7
+331,Ulykker - endring i personskader,5285491.608751804,Strekning 8,7
+332,Ulykker - endring i reparasjonskostnader,65091901.583853595,Strekning 8,7
+333,Ulykker - endring i tid ute av drift,48332435.319840714,Strekning 8,7
+334,Skattefinansieringskostnader,-29450452.656324722,Strekning 8,7
+335,Samfunnsøkonomisk overskudd,148244175.23662987,Strekning 8,7
+336,rente,0.0,Strekning 8,8
+337,diskonteringsfaktor,0.0,Strekning 8,8
+338,Endring i distanseavhengige kostnader,1443602.1732214184,Strekning 8,8
+339,Endring i globale utslipp til luft,2015630.944939578,Strekning 8,8
+340,Endring i lokale utslipp til luft,108752.9965068161,Strekning 8,8
+341,Endring i tidsavhengige kostnader,3793196.652432576,Strekning 8,8
+342,Endring i vedlikeholdskostnader,-5480615.28401032,Strekning 8,8
+343,"Investeringskostnader, annet",-60145665.773637556,Strekning 8,8
+344,"Investeringskostnader, navigasjonsinnretninger",-60145665.773637556,Strekning 8,8
+345,"Investeringskostnader, utdyping",-60145665.773637556,Strekning 8,8
+346,Ulykker - endring i dødsfall,12513438.38089222,Strekning 8,8
+347,Ulykker - endring i forventet opprenskingskostnad ved oljeutslipp,15327943.452056991,Strekning 8,8
+348,Ulykker - endring i forventet velferdstap ved oljeutslipp,151602503.77546954,Strekning 8,8
+349,Ulykker - endring i personskader,4773178.615623223,Strekning 8,8
+350,Ulykker - endring i reparasjonskostnader,59520726.00743661,Strekning 8,8
+351,Ulykker - endring i tid ute av drift,44875224.9182271,Strekning 8,8
+352,Skattefinansieringskostnader,-37183522.5209846,Strekning 8,8
+353,Samfunnsøkonomisk overskudd,72873062.7908985,Strekning 8,8
+354,rente,0.0,Strekning 8,9
+355,diskonteringsfaktor,0.0,Strekning 8,9
+356,Endring i vedlikeholdskostnader,-1129866.7764018346,Strekning 8,9
+357,"Investeringskostnader, annet",-978520.5203847453,Strekning 8,9
+358,"Investeringskostnader, navigasjonsinnretninger",-978520.5203847453,Strekning 8,9
+359,"Investeringskostnader, utdyping",-978520.5203847453,Strekning 8,9
+360,Ulykker - endring i dødsfall,4930916.267003461,Strekning 8,9
+361,Ulykker - endring i forventet opprenskingskostnad ved oljeutslipp,887910.9027893596,Strekning 8,9
+362,Ulykker - endring i forventet velferdstap ved oljeutslipp,18578373.522831894,Strekning 8,9
+363,Ulykker - endring i personskader,1158155.0248891208,Strekning 8,9
+364,Ulykker - endring i reparasjonskostnader,9939962.60548233,Strekning 8,9
+365,Ulykker - endring i tid ute av drift,7808936.16708424,Strekning 8,9
+366,Skattefinansieringskostnader,-813085.6675112142,Strekning 8,9
+367,Samfunnsøkonomisk overskudd,38425740.48501311,Strekning 8,9
+368,rente,0.0,Strekning 9,22
+369,diskonteringsfaktor,0.0,Strekning 9,22
+370,Endring i vedlikeholdskostnader,-2368832.987115577,Strekning 9,22
+371,"Investeringskostnader, annet",-1033982.4495900762,Strekning 9,22
+372,"Investeringskostnader, navigasjonsinnretninger",-1033982.4495900762,Strekning 9,22
+373,"Investeringskostnader, utdyping",-1033982.4495900762,Strekning 9,22
+374,Ulykker - endring i dødsfall,1082392.3054496348,Strekning 9,22
+375,Ulykker - endring i forventet opprenskingskostnad ved oljeutslipp,382318.15427758236,Strekning 9,22
+376,Ulykker - endring i forventet velferdstap ved oljeutslipp,3258782.1785834595,Strekning 9,22
+377,Ulykker - endring i personskader,296156.3347191394,Strekning 9,22
+378,Ulykker - endring i reparasjonskostnader,3749360.993607864,Strekning 9,22
+379,Ulykker - endring i tid ute av drift,2168907.35767732,Strekning 9,22
+380,Skattefinansieringskostnader,-1094156.067177161,Strekning 9,22
+381,Samfunnsøkonomisk overskudd,4372980.921252033,Strekning 9,22
+382,rente,0.0,Strekning 9,31
+383,diskonteringsfaktor,0.0,Strekning 9,31
+384,Endring i vedlikeholdskostnader,-3602090.400473789,Strekning 9,31
+385,"Investeringskostnader, annet",-8974254.571097318,Strekning 9,31
+386,"Investeringskostnader, navigasjonsinnretninger",-8974254.571097318,Strekning 9,31
+387,"Investeringskostnader, utdyping",-8974254.571097318,Strekning 9,31
+388,Ulykker - endring i dødsfall,7387229.804737033,Strekning 9,31
+389,Ulykker - endring i forventet opprenskingskostnad ved oljeutslipp,4046254.373268703,Strekning 9,31
+390,Ulykker - endring i forventet velferdstap ved oljeutslipp,47333014.4956825,Strekning 9,31
+391,Ulykker - endring i personskader,2071302.427186324,Strekning 9,31
+392,Ulykker - endring i reparasjonskostnader,22990364.674666047,Strekning 9,31
+393,Ulykker - endring i tid ute av drift,15650777.897573445,Strekning 9,31
+394,Skattefinansieringskostnader,-6104970.822753149,Strekning 9,31
+395,Samfunnsøkonomisk overskudd,62849118.736595154,Strekning 9,31
+396,rente,0.0,Strekning 9,32
+397,diskonteringsfaktor,0.0,Strekning 9,32
+398,Endring i vedlikeholdskostnader,-5883363.658567195,Strekning 9,32
+399,"Investeringskostnader, annet",-15634527.729146497,Strekning 9,32
+400,"Investeringskostnader, navigasjonsinnretninger",-15634527.729146497,Strekning 9,32
+401,"Investeringskostnader, utdyping",-15634527.729146497,Strekning 9,32
+402,Ulykker - endring i dødsfall,9581294.728043536,Strekning 9,32
+403,Ulykker - endring i forventet opprenskingskostnad ved oljeutslipp,5690541.983832427,Strekning 9,32
+404,Ulykker - endring i forventet velferdstap ved oljeutslipp,62941527.28708253,Strekning 9,32
+405,Ulykker - endring i personskader,2685022.2192110294,Strekning 9,32
+406,Ulykker - endring i reparasjonskostnader,30844699.909143113,Strekning 9,32
+407,Ulykker - endring i tid ute av drift,20924515.899807174,Strekning 9,32
+408,Ventetidsberegning Bårdskjæret,100639.76646539773,Strekning 9,32
+409,Ventetidsberegning Dolmsundet,72257.22040707493,Strekning 9,32
+410,Skattefinansieringskostnader,-10557389.36920134,Strekning 9,32
+411,Samfunnsøkonomisk overskudd,69496162.79878426,Strekning 9,32

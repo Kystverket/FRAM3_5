@@ -1,0 +1,2 @@
+include fram/Forutsetninger_FRAM.xlsx fram/kalkpriser/oljeutslipp/* fram/kalkpriser/tid_drivstoff/* fram/dashboard/dashboard_template.html requirements.txt
+recursive-include fram/eksempler/ *.*
